@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sugomadik:blocks/pine_leaves",
+    "particle": "sugomadik:blocks/pine_leaves"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sugomadik:blocks/dream_ore",
+    "particle": "sugomadik:blocks/dream_ore"
+  }
+}

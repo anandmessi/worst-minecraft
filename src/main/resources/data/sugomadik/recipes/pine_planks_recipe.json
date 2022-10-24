@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:pine_log"
+    }
+  ],
+  "result": {
+    "item": "sugomadik:pine_planks",
+    "count": 4
+  }
+}

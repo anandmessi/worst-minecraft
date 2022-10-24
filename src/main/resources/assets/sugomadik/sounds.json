@@ -1,0 +1,21 @@
+{
+  "dream_speed": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sugomadik:y2mate.com_-_dream_saying__come_here_george__for_2_minutes_straight-audiotrimmer.com",
+        "stream": false
+      }
+    ]
+  },
+  "speedrun": {
+    "category": "neutral",
+    "subtitle": "subtitles.speedrun",
+    "sounds": [
+      {
+        "name": "sugomadik:y2mate.com_-_dream_manhunt_background_music_1",
+        "stream": false
+      }
+    ]
+  }
+}

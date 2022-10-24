@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sugomadik:blocks/pine_log_top",
+    "up": "sugomadik:blocks/pine_log_top",
+    "north": "sugomadik:blocks/pine_log_side",
+    "east": "sugomadik:blocks/pine_log_side",
+    "south": "sugomadik:blocks/pine_log_side",
+    "west": "sugomadik:blocks/pine_log_side",
+    "particle": "sugomadik:blocks/pine_log_top"
+  }
+}

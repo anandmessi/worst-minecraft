@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "sugomadik:dream_ingot"
+    },
+    "2": {
+      "item": "sugomadik:dream_ingot"
+    },
+    "3": {
+      "item": "sugomadik:dream_ingot"
+    },
+    "5": {
+      "item": "sugomadik:dream_ingot"
+    }
+  },
+  "result": {
+    "item": "sugomadik:dream_armor_boots",
+    "count": 1
+  }
+}

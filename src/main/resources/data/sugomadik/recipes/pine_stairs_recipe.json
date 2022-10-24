@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sugomadik:pine_planks"
+    },
+    "3": {
+      "item": "sugomadik:pine_planks"
+    },
+    "4": {
+      "item": "sugomadik:pine_planks"
+    },
+    "6": {
+      "item": "sugomadik:pine_planks"
+    },
+    "7": {
+      "item": "sugomadik:pine_planks"
+    },
+    "8": {
+      "item": "sugomadik:pine_planks"
+    }
+  },
+  "result": {
+    "item": "sugomadik:pine_stairs",
+    "count": 4
+  }
+}

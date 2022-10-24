@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "sugomadik:blocks/pine_planks",
+    "particle": "sugomadik:blocks/pine_planks"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sugomadik:block/pine_slab"
+    },
+    "type=top": {
+      "model": "sugomadik:block/pine_slab_top"
+    },
+    "type=double": {
+      "model": "sugomadik:block/pine_slab_full"
+    }
+  }
+}

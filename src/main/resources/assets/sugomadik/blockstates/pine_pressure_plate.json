@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "sugomadik:block/pine_pressure_plate"
+    },
+    "powered=true": {
+      "model": "sugomadik:block/pine_pressure_plate_down"
+    }
+  }
+}

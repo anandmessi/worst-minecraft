@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DreamIngot"
+      },
+      {
+        "value": "CUSTOM:DreamIngot"
+      },
+      {
+        "value": "CUSTOM:DreamIngot"
+      },
+      {
+        "value": "CUSTOM:DreamIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DreamIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DreamArmor.helmet"
+    },
+    "name": "dream_armor_helmet_recipe",
+    "namespace": "mod"
+  }
+}

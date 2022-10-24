@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "sugomadik:blocks/pine_planks",
+    "top": "sugomadik:blocks/pine_planks",
+    "side": "sugomadik:blocks/pine_planks"
+  }
+}

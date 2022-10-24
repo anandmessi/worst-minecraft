@@ -1,0 +1,487 @@
+{
+  "mod_elements": [
+    {
+      "name": "DreamIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream_ingot"
+    },
+    {
+      "name": "DreamOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream_ore"
+    },
+    {
+      "name": "DreamBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream_block"
+    },
+    {
+      "name": "DreamOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream_ore_block_recipe"
+    },
+    {
+      "name": "DreamBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream_block_ore_recipe"
+    },
+    {
+      "name": "DreamOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream_ore_smelting"
+    },
+    {
+      "name": "PineWood",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_wood"
+    },
+    {
+      "name": "PineLog",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_log"
+    },
+    {
+      "name": "PinePlanks",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_planks"
+    },
+    {
+      "name": "PineLeaves",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_leaves"
+    },
+    {
+      "name": "PineStairs",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_stairs"
+    },
+    {
+      "name": "PineSlab",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_slab"
+    },
+    {
+      "name": "PineFence",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_fence"
+    },
+    {
+      "name": "PineFenceGate",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_fence_gate"
+    },
+    {
+      "name": "PinePressurePlate",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_pressure_plate"
+    },
+    {
+      "name": "PineButton",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_button"
+    },
+    {
+      "name": "PineItemsTag",
+      "type": "tag",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_items_tag"
+    },
+    {
+      "name": "PineWoodRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_wood_recipe"
+    },
+    {
+      "name": "PinePlanksRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_planks_recipe"
+    },
+    {
+      "name": "PineStairsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_stairs_recipe"
+    },
+    {
+      "name": "PineSlabRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_slab_recipe"
+    },
+    {
+      "name": "PineFenceRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_fence_recipe"
+    },
+    {
+      "name": "PineFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_fence_gate_recipe"
+    },
+    {
+      "name": "PinePressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_pressure_plate_recipe"
+    },
+    {
+      "name": "PineButtonRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_button_recipe"
+    },
+    {
+      "name": "PineStickRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pine_stick_recipe"
+    },
+    {
+      "name": "DreamPickaxe",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream_pickaxe"
+    },
+    {
+      "name": "DreamAxe",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream_axe"
+    },
+    {
+      "name": "DreamSword",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream_sword"
+    },
+    {
+      "name": "DreamShovel",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream_shovel"
+    },
+    {
+      "name": "DreamHoe",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream_hoe"
+    },
+    {
+      "name": "DreamPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream_pickaxe_recipe"
+    },
+    {
+      "name": "DreamAxeRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream_axe_recipe"
+    },
+    {
+      "name": "DreamSwordRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream_sword_recipe"
+    },
+    {
+      "name": "DreamShovelRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream_shovel_recipe"
+    },
+    {
+      "name": "DreamHoeRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream_hoe_recipe"
+    },
+    {
+      "name": "DreamArmor",
+      "type": "armor",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "DreamArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream_armor_helmet_recipe"
+    },
+    {
+      "name": "DreamArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream_armor_body_recipe"
+    },
+    {
+      "name": "DreamArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream_armor_leggings_recipe"
+    },
+    {
+      "name": "DreamArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream_armor_boots_recipe"
+    },
+    {
+      "name": "Dream",
+      "type": "biome",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream"
+    },
+    {
+      "name": "GFuel",
+      "type": "fluid",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "g_fuel",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "Obsidian",
+      "type": "biome",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian"
+    },
+    {
+      "name": "Pineforest",
+      "type": "biome",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pineforest"
+    },
+    {
+      "name": "Gfuelocean",
+      "type": "biome",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gfuelocean"
+    },
+    {
+      "name": "Dreamdimension",
+      "type": "dimension",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dreamdimension",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Dreamkey",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dreamkey"
+    },
+    {
+      "name": "Dreammob",
+      "type": "livingentity",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dreammob"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "dream_speed",
+      "files": [
+        "y2mate.com_-_dream_saying__come_here_george__for_2_minutes_straight-audiotrimmer.com"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "speedrun",
+      "files": [
+        "y2mate.com_-_dream_manhunt_background_music_1"
+      ],
+      "category": "neutral",
+      "subtitle": "Dream nearby"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.sugomadik.g_fuel_bucket": "G Fuel Bucket",
+      "item.sugomadik.dream_armor_boots": "Dream Boots",
+      "fluid.sugomadik.g_fuel": "G Fuel",
+      "item.sugomadik.dream_shovel": "Dream Shovel",
+      "biome.sugomadik.gfuelocean": "Gfuelocean",
+      "item.sugomadik.dream_axe": "Dream Axe",
+      "block.sugomadik.pine_planks": "Pine Planks",
+      "block.sugomadik.pine_wood": "Pine Wood",
+      "block.sugomadik.g_fuel": "G Fuel",
+      "block.sugomadik.pine_fence": "Pine Fence",
+      "block.sugomadik.pine_button": "Pine Button",
+      "entity.sugomadik.dreammob": "Dream",
+      "block.sugomadik.pine_pressure_plate": "Pine Pressure Plate",
+      "item.sugomadik.dream_hoe": "Dream Hoe",
+      "item.sugomadik.dream_armor_helmet": "Dream Helmet",
+      "item.sugomadik.dreammob_spawn_egg": "Dream Spawn Egg",
+      "item.sugomadik.dream_ingot": "Dream",
+      "subtitles.dream_speed": "",
+      "biome.sugomadik.dream": "Dream",
+      "item.sugomadik.dream_pickaxe": "Dream Pickaxe",
+      "subtitles.speedrun": "Dream nearby",
+      "item.sugomadik.dream_sword": "Dream Sword",
+      "block.sugomadik.dream_block": "Block of Dream",
+      "item.sugomadik.dream_armor_chestplate": "Dream Chestplate",
+      "item.sugomadik.dream_armor_leggings": "Dream Leggings",
+      "block.sugomadik.pine_log": "Pine Log",
+      "block.sugomadik.pine_fence_gate": "Pine Fence Gate",
+      "biome.sugomadik.obsidian": "Obsidian",
+      "item.sugomadik.dreamdimension": "Dream world key",
+      "block.sugomadik.pine_stairs": "Pine Stairs",
+      "biome.sugomadik.pineforest": "Pineforest",
+      "block.sugomadik.dream_ore": "Dream Ore",
+      "block.sugomadik.pine_slab": "Pine Slab",
+      "block.sugomadik.pine_leaves": "Pine Leaves"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "sugomadik",
+    "modName": "sugomad",
+    "version": "1.0.0",
+    "author": "anand, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.mcreator.sugomadik",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}
